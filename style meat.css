@@ -289,7 +289,7 @@ section{
 }.products .box-container{
     display: grid;
     grid-template-columns: repeat(5,1fr);
-    gap:1rem;
+    gap:1.5rem;
    
 }
 
@@ -309,7 +309,7 @@ section{
 
 .products .box-container .box img{
     margin:1rem 0;
-    height: 15rem;
+    height: 10rem;
     padding: 5px; 
 }
 
